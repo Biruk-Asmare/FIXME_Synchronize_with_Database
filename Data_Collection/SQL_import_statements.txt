@@ -1,0 +1,16 @@
+android.database.sqlite.
+android.database.DatabaseUtils
+org.hibernate.SharedSessionContract
+org.hibernate.SharedSessionContract
+org.hibernate.Query
+org.hibernate.SQLQuery
+org.hibernate.*
+org.springframework.
+org.springframework.orm.hibernate3.HibernateTemplate
+org.springframework.orm.hibernate4.HibernateTemplate
+org.springframework.orm.hibernate5.HibernateTemplate
+javax.persistence.*
+javax.persistence.Query
+javax.persistence.TypedQuery
+java.sql.Statement
+java.sql.*
