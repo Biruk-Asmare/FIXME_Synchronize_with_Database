@@ -27,6 +27,16 @@ Both files contain the list of snapshots taken for all the selected subject syst
 
 The dataset files contain SATD comments identified from multiple snapshots of both SQL and NoSQL systems. It provides the comment location, and whether the comment is data-access or not. The datasets for all the research questions are derived from this raw dataset.
 
+#### SQL_projects_commit_time_stat.csv, NSQL_projects_commit_time_stat.csv, and combined_projects_commit_time_stat.csv
+
+Those files report the mean, standard devation and 95% confidence interval of commit time span for each SQL subject system, NoSQL subject system and the combination of the two respectively.
+
+#### Commit_time_analysis.ipynb
+This notebook shows how we generated the commit_time stats for our subject systems.
+
+#### Commit_time_distribution_plots.ipynb
+This R notebook shows the distribution of commit_time stats.
+
 ### RQ1
 
 This folder contains the analysis scripts and data for answering RQ1.
